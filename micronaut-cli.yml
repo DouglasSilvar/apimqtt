@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.apimqtt
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, h2, http-client, java, java-application, junit, logback, lombok, maven, mqtt, netty-server, readme, shade, yaml]
